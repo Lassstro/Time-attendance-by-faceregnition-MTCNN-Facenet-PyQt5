@@ -2,7 +2,7 @@
 
 Bước 1: Cài đặt môi trường ảo 
 
-	Cài Anaconda3: chạy 'Anaconda3-2020.07-Windows-x86_64.exe' trong foder Anaconda để setup
+	Cài Anaconda3: chạy 'Anaconda3-2020.07-Windows-x86_64.exe'
 	
 	=> Tạo môi trường: vào cmd chạy lệnh: conda create --name facerecognition python=3.7
 	
