@@ -2,9 +2,9 @@
 
 Mô tả:
 Một trình quản lí nhân viên CRUD cơ bản, có thêm chức năng chấm công hằng ngày bằng nhận diện khuôn mặt
-Backend: Python
-FontEnd: Qt5
-Database: SQLite
+- Backend: Python
+- FontEnd: Qt5
+- Database: SQLite
 
 Bước 1: Cài đặt môi trường ảo 
 
